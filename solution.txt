@@ -1,0 +1,61 @@
+Y/N
+go south
+score
+go south
+score
+look
+speak
+go north
+look
+collect t-card
+1244
+inventory
+go south
+go east
+go east
+go north
+look
+speak
+go south
+go east
+go south
+look
+speak
+go north
+look
+collect cheat sheet
+3124
+inventory
+go west
+go west
+go west
+go north
+go north
+drop cheat sheet
+inventory
+drop t-card
+inventory
+go South
+go south
+go south
+go south
+go east
+look
+collect lucky pen
+1568
+inventory
+go west
+go north
+go north
+go north
+go north
+drop lucky pen
+inventory
+score
+go south
+go south
+go east
+go east
+go east
+go south
+go east

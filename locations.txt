@@ -1,0 +1,116 @@
+LOCATION -1
+0
+Hmmm... I don't know if there's anything to see here, looks like a dead end.
+
+You probably shouldn't go here.
+END
+
+LOCATION 1
+5
+You are currently in your dorm room. In just a few hours you will have to write the hardest exam of your life
+(MAT157)! But... There's a problem. You misplaced all your things! There's no way you can write the test without your
+T-card, Lucky pen, and cheat sheet. There's not much time left, you better get going and find your things!
+
+Nothing here... just your bed and an endless pile of notes and practice exams. Make sure to return all your things here
+before you head to the exam centre!
+END
+
+LOCATION 2
+5
+You are at every UofT(ears) student's favourite place in the world, Robarts! You were studying here last night but
+decided to leave because you could hear sniffles at every direction. After all, it is finals season.
+
+Books. Tears. And even more tears. Welcome to Robarts!
+END
+
+LOCATION 3
+5
+You are at St. George Station right now. Why were you here last night? No clue. All you remember is the screeching
+noises of the subway and the homeless man that tried to snoop into your backpack. Everything else is just a blur.
+
+St. George Station. The TTC. What more can I say?
+END
+
+LOCATION 4
+5
+Sidney Smith Commons is an ArtSci students' haven. There's great coffee and a ton of places where you can study. It's
+never too late to start an academic comeback!
+
+Wow! There's a lot of people at Sidney Smith Commons today, better leave before it gets too crowded.
+END
+
+LOCATION 5
+5
+Yesterday you decided to go to Queen's Park to get some fresh air. But... all you could smell is Toronto pollution, so
+you had to leave before you get another asthma attack! But hey, you touched some grass! 10/10 for effort!
+
+Queen's Park, land of the hippies and tree huggers.
+END
+
+LOCATION 6
+5
+Bahen is famous for many things. Brilliant architecture? Well, perhaps. It's actually the CS students. They enter in
+groups and release their distinct scent for the whole world to smell. This aroma smells nothing like fresh flowers or
+vanilla. It just reeks of sweat and rotten eggs, which explains why you had to leave ASAP!
+
+RUN! The CS students are at Bahen! Spray them with some deodorant first!
+END
+
+LOCATION 7
+5
+The Myhal Centre is where you met up with some friends after class yesterday. They were also on that finals week grind,
+so you didn't stay for long! Oh well, at least you got to socialize for once!
+
+Myhal. It's just Bahen 2.0.
+END
+
+LOCATION 8
+5
+This is probably your personal favourite place to be, the Goldring Athletic Centre. There are lots of fun things to do!
+Swimming, Weightlifting, or try our the treadmill. You go here whenever you want to use your energy to do something
+other than study.
+
+Are you ready to hit the gym? If so, this is the Goldring Athletic Centre, the perfect place to be.
+END
+
+LOCATION 9
+5
+After a long day of studying all you needed was some cheap yet quality food. May I present to you the Brown Food Truck!
+What are you feeling today? Poutine, hot dogs, or some pop? Ooo! You can always order them all.
+
+Are you craving the Brown Food Truck today?
+END
+
+LOCATION 10
+5
+Gosh there's so much construction at King's College Circle! I don't think you can even see what's on the other side!
+Hopefully the project is going to be completed soon. You want to see where your expensive tuition goes towards! There
+are really no shortcuts here.
+
+Ouch! My ears hurt with all the construction at King's College Circle!
+END
+
+LOCATION 11
+5
+You get the chills whenever you enter the Exam Centre. In fact, even just the thought of it makes your soul leave your
+body. Later, you will be back here to write your exam! Ah! You're sweating already!
+
+Welcome to Hell! Uh. I mean the Exam Centre!
+END
+
+LOCATION 12
+5
+When you were out last night you passed the Sketchy Alley. You swore you heard some creepy noises. I don't think it's
+very safe here. You could get jumped any moment from now.
+
+We should probably leave this Sketchy Alley.
+END
+
+LOCATION 13
+5
+You took a break and decided to go to the Convocation Hall, it's large and very pretty. It's going to be a while until
+you walk across that stage, collect your degree, and enter the real world. Oh what a dream that would be... First you
+have to pass this final before you can even think about things like that!
+
+You are at the Convocation Hall right now. What are you gonna do? Graduate? Aha!
+END

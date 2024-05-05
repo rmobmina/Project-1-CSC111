@@ -1,0 +1,25 @@
+LOCATION 4
+5
+Sadia: It's nice to see you again, {name}! Thank you for attending the final 111 lecture. It got pretty wild yesterday.
+Everyone started dumping everything out of their bags, throwing pens and papers into the air. At the end, it
+became a huge mess. I wish I could help the cleaning staff... Maybe if you have time you can help clean up? Just go to
+the Convocation Hall and dial in so someone can open the doors for you. The number is the area under the curve of y = x
+from x = 0 to x = 56. See ya later, {name}!
+END
+
+LOCATION 5
+5
+Reena: Hey {name}! Are you okay? You look awfully tired today. Perhaps it has to do with that show you put on last night
+at the subway? {name}, you are quite the feisty! Oh... Did you forget what happened? You fought a man on the train. But
+he ended up grabbing your things and placing it in his little stash. It's sealed with an old rusty lock. And lucky for
+you, he forgot to mix up the numbers. The code is the sum of 89 and 222, multiplied by 4.
+END
+
+LOCATION 10
+5
+Akram: Hold on! {name}, why do you look like you're in such a rush? Oh yeah... Today is the test for 157. Before I
+forget, you forgot your Cheat Sheet at Goldring! I meant to hand it to you after I finished my set, but you were already
+far gone. {name}, you really are one of a kind, I've never seen anyone study while running on the treadmill before.
+Don't stress, it's just in my locker. The code is the limit of the funcion f(x)= (3124x)/x as x approaches 1. Hehe.
+Let's put your studying to some good use!
+END
