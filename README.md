@@ -12,3 +12,5 @@ All of this stuff must be around campus somewhere! Can you find all of it before
 
 This adventure game will allow players to try to find all of the required items prior to the exam starting. 
 If the player finds all of the items and brings them to the exam room before the exam starts, they "win" the game. 
+
+This project is Copyright (c) Akram Klai, Reena Obmina.
